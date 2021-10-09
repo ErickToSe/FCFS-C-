@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FCFS", "FCFS.csproj", "{DF0CFDFA-11CC-4C79-A13B-6028C2F46713}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF0CFDFA-11CC-4C79-A13B-6028C2F46713}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF0CFDFA-11CC-4C79-A13B-6028C2F46713}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF0CFDFA-11CC-4C79-A13B-6028C2F46713}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF0CFDFA-11CC-4C79-A13B-6028C2F46713}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal

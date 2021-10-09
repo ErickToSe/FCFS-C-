@@ -1,0 +1,7 @@
+C:\Users\torre\Documents\SharpDevelop Projects\FCFS\bin\Debug\FCFS.exe
+C:\Users\torre\Documents\SharpDevelop Projects\FCFS\bin\Debug\FCFS.pdb
+C:\Users\torre\Documents\SharpDevelop Projects\FCFS\obj\Debug\FCFS.csprojResolveAssemblyReference.cache
+C:\Users\torre\Documents\SharpDevelop Projects\FCFS\obj\Debug\FCFS.exe
+C:\Users\torre\Documents\SharpDevelop Projects\FCFS\obj\Debug\FCFS.pdb
+C:\Users\torre\Documents\SharpDevelop Projects\FCFS\obj\Debug\FCFS.MainForm.resources
+C:\Users\torre\Documents\SharpDevelop Projects\FCFS\obj\Debug\FCFS.csproj.GenerateResource.Cache
